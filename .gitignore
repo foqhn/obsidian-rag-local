@@ -2,3 +2,6 @@
 .venv
 .python-version
 uv.lock
+
+# 永続化ベクトルDB（ローカル生成物）
+data/

@@ -11,5 +11,8 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-huggingface>=1.2.2",
     "langchain-ollama>=1.1.0",
+    "langchain-text-splitters>=1.1.2",
     "sentence-transformers>=5.5.1",
+    "streamlit>=1.58.0",
+    "torchvision>=0.27.0",
 ]

@@ -1,3 +1,4 @@
+# MVP（CLI）— フェーズ2の Web UI は `uv run streamlit run app.py` を使用してください。
 import os
 from langchain_community.document_loaders import ObsidianLoader
 from langchain_huggingface import HuggingFaceEmbeddings
